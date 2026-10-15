@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 64 64" role="img" aria-label="Alışkanlık Takipçisi">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#4f46e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="url(#g)"/>
+  <path d="M32 12c-1 6-6 8-6 14 0 6 6 10 6 18 0-8 6-12 6-18 0-6-5-8-6-14z" fill="#ffd580"/>
+  <path d="M28 36c1.5-2 4-3 4-6 0 3 2.5 4 4 6-2 3-6.5 3-8 0z" fill="#ff8a65"/>
+</svg>
